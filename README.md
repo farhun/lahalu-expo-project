@@ -5,6 +5,10 @@
 Ready to dive into the fun? Here’s how to run the project:
 
 ```bash
+npm install expo
+```
+
+```bash
 npx expo start
 ```
 
